@@ -83,7 +83,7 @@ This code connects the Node MCU to Wi-Fi, integrates with the Blynk app, and con
 
 ## Output
 
-<img src="img/iot project outcome .jpg" alt="Outcome diagram" width=600 height=400/>  
+<img src="img/iot project outcome .jpg" alt="Outcome diagram" width=800 height=400/>  
 
 <img src="img/output1.jpg" alt="Output 1" width=700 height=600/>
 
