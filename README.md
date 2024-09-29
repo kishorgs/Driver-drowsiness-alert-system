@@ -7,48 +7,60 @@ The IoT Fatigue Detection System is designed to enhance vehicle safety by automa
 ## Components Used
 
 1. **Node MCU ESP8266**  
+
    <img src="img/NODE MCU.png" alt="Node MCU" width=600 height=600/>
    
    A low-cost open-source IoT platform based on the ESP8266 Wi-Fi module, allowing for easy integration with Wi-Fi networks.
 
-1. **BO Motor**  
+3. **BO Motor**  
+
    <img src="img/bo motor.jpg" alt="BO Motor" width=400 height=400/>
    
    Used to control the movement of the vehicle, receiving commands from the Node MCU to start or stop.
 
-3. **3.7V Lithium-Ion Battery**  
+5. **3.7V Lithium-Ion Battery**  
+
    <img src="img/battery.jpeg" alt="Battery" width=400 height=600/>
    
    Provides power to the Node MCU and other components for portability.
 
-5. **Eye Blink Sensor**  
-   <img src="img/sensor.webp" alt="Node Eye blink sensor" width=600 height=300/> 
+7. **Eye Blink Sensor**  
+
+   <img src="img/sensor.webp" alt="Node Eye blink sensor" width=600 height=400/> 
+   
    Detects eye movements and blinks to monitor driver alertness.
 
-6. **LED**  
+9. **LED**  
+
    <img src="img/bulb.jpeg" alt="Node MCU" width=400 height=400/>
    
    Provides visual feedback indicating the system's status (active or inactive).
 
-8. **Buzzer**  
+11. **Buzzer**  
+
    <img src="img/buzzer.jpeg" alt="Buzzer" width=400 height=400/>
    
    Alerts the driver if fatigue is detected, ensuring immediate attention.
 
-10. **Jumper Wires**  
-   <img src="img/wire.jpg" alt="Jumper wire" width=400 height=600/>
+11. **Jumper Wires**  
+
+   <img src="img/wire.jpg" alt="Jumper wire" width=600 height=400/>
    
    Used for connecting components on a breadboard or directly to the Node MCU.
 
 ## Circuit Diagram
+
 <img src="img/circuit diagram.png" alt="Circuit diagram" width=500 height=500/>  
 
 Illustrates how the components are interconnected, including the Node MCU, eye blink sensor, motor, LED, and buzzer.
 
 ## Blynk App Interface
 ### Blynk App Screenshots
+
 <img src="" alt="Node MCU"/> 
+
 <img src="" alt="Node MCU"/>
+
 Provides a user-friendly interface to control and monitor the vehicle's status remotely.
 
 ## Installation Instructions
@@ -70,11 +82,12 @@ Provides a user-friendly interface to control and monitor the vehicle's status r
 This code connects the Node MCU to Wi-Fi, integrates with the Blynk app, and controls the relay and buzzer based on the eye blink sensor's input.
 
 ## Output
+
 <img src="img/iot project outcome .jpg" alt="Outcome diagram" width=600 height=400/>  
 
-<img src="img/output1.jpg" alt="Output 1" width=500 height=600/>
+<img src="img/output1.jpg" alt="Output 1" width=700 height=600/>
 
-<img src="img/output2.jpg" alt="Output 2" width=400 height=400/>
+<img src="img/output2.jpg" alt="Output 2" width=500 height=600/>
 
 The image above shows the final IoT car setup that utilizes the eye blink sensor for fatigue detection.
 
