@@ -63,9 +63,9 @@ Provides a user-friendly interface to control and monitor the vehicle's status r
 This code connects the Node MCU to Wi-Fi, integrates with the Blynk app, and controls the relay and buzzer based on the eye blink sensor's input.
 
 ## Output
-<img src="img/iot project outcome.jpg" alt="Outcome diagram"/>  
+<img src="img/iot project outcome .jpg" alt="Outcome diagram"/>  
 <img src="img/output1.jpg" alt="Output 1"/>
-<img src="img/output2.png" alt="Output 2"/>
+<img src="img/output2.jpg" alt="Output 2"/>
 The image above shows the final IoT car setup that utilizes the eye blink sensor for fatigue detection.
 
 ## Conclusions
