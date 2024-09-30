@@ -50,7 +50,7 @@ The IoT Fatigue Detection System is designed to enhance vehicle safety by automa
 
 ## Circuit Diagram
 
-<img src="img/circuit diagram.png" alt="Circuit diagram" width=500 height=500/>  
+<img src="img/circuit diagram.png" alt="Circuit diagram" width=600 height=600/>  
 
 Illustrates how the components are interconnected, including the Node MCU, eye blink sensor, motor, LED, and buzzer.
 
@@ -85,9 +85,9 @@ This code connects the Node MCU to Wi-Fi, integrates with the Blynk app, and con
 
 <img src="img/iot project outcome .jpg" alt="Outcome diagram" width=800 height=400/>  
 
-<img src="img/output1.jpg" alt="Output 1" width=700 height=600/>
+<img src="img/output1.jpg" alt="Output 1" width=700 height=700/>
 
-<img src="img/output2.jpg" alt="Output 2" width=500 height=600/>
+<img src="img/output2.jpg" alt="Output 2" width=500 height=700/>
 
 The image above shows the final IoT car setup that utilizes the eye blink sensor for fatigue detection.
 
