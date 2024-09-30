@@ -50,7 +50,7 @@ The IoT Fatigue Detection System is designed to enhance vehicle safety by automa
 
 ## Circuit Diagram
 
-<img src="img/circuit diagram.png" alt="Circuit diagram" width=600 height=600/>  
+<img src="img/circuit diagram.png" alt="Circuit diagram" width=600 height=500/>  
 
 Illustrates how the components are interconnected, including the Node MCU, eye blink sensor, motor, LED, and buzzer.
 
