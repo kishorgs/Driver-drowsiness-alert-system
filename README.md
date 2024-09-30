@@ -57,9 +57,9 @@ Illustrates how the components are interconnected, including the Node MCU, eye b
 ## Blynk App Interface
 ### Blynk App Screenshots
 
-<img src="" alt="Node MCU"/> 
+<img src="img/Screenshot_20240929_215647_Blynk_IoT.jpg" alt="Node MCU" width=400 height=600/> 
 
-<img src="" alt="Node MCU"/>
+<img src="img/Screenshot_20240929_215654_Blynk_IoT.jpg" alt="Node MCU" width=400 height=600/>
 
 Provides a user-friendly interface to control and monitor the vehicle's status remotely.
 
