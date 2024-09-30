@@ -1,5 +1,5 @@
 
-# IoT Fatigue Detection System for Vehicles
+# Driver drowsiness alert system
 
 ## Project Description
 The IoT Fatigue Detection System is designed to enhance vehicle safety by automatically stopping the vehicle if the driver shows signs of fatigue or falls asleep. This system utilizes an eye blink sensor connected to a Node MCU ESP8266 to monitor the driver's alertness. The project integrates a mobile app via Blynk for remote control and monitoring, ensuring safety on the road.
