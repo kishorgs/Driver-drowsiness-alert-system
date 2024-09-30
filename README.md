@@ -8,7 +8,7 @@ The IoT Fatigue Detection System is designed to enhance vehicle safety by automa
 
 1. **Node MCU ESP8266**  
 
-   <img src="img/NODE MCU.png" alt="Node MCU" width=600 height=600/>
+   <img src="img/Node mcu.jpg" alt="Node MCU" width=600 height=600/>
    
    A low-cost open-source IoT platform based on the ESP8266 Wi-Fi module, allowing for easy integration with Wi-Fi networks.
 
