@@ -1,4 +1,3 @@
-
 # Driver drowsiness alert system
 
 ## Project Description
