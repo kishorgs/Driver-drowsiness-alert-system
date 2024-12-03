@@ -92,5 +92,3 @@ The image above shows the final IoT car setup that utilizes the eye blink sensor
 
 ## Conclusions
 The IoT Fatigue Detection System is a vital step toward improving road safety by providing an automatic mechanism to prevent accidents caused by driver fatigue. The integration of mobile technology via the Blynk app enhances user interaction and control, making the system more accessible and effective.
-
-
